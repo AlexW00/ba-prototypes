@@ -1,0 +1,31 @@
+export const UEQ_QUESTIONS = [
+	["unerfreulich", "erfreulich"],
+	["unverständlich", "verständlich"],
+	["kreativ", "phantasielos"],
+	["leicht zu lernen", "schwer zu lernen"],
+	["wertvoll", "minderwertig"],
+	["langweilig", "spannend"],
+	["uninteressant", "interessant"],
+	["unberechenbar", "voraussagbar"],
+	["schnell", "langsam"],
+	["originell", "konventionell"],
+	["behindernd", "unterstützend"],
+	["gut", "schlecht"],
+	["kompliziert", "einfach"],
+	["abstoßend", "anziehend"],
+	["herkömmlich", "neuartig"],
+	["unangenehm", "angenehm"],
+	["sicher", "unsicher"],
+	["aktivierend", "einschläfernd"],
+	["erwartungskonform", "nicht erwartungskonform"],
+	["ineffizient", "effizient"],
+	["übersichtlich", "verwirrend"],
+	["unpragmatisch", "pragmatisch"],
+	["aufgeräumt", "überladen"],
+	["attraktiv", "unattraktiv"],
+	["sympathisch", "unsympathisch"],
+	["konservativ", "innovativ"],
+];
+
+export type UEQAnswer = number;
+export type UEQAnswers = UEQAnswer[];

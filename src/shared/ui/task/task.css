@@ -1,0 +1,116 @@
+#task {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 0
+}
+
+#task-body {
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+}
+
+.task-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.task-title-stuff {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.5em;
+}
+
+
+#task-study-progress {
+    font-size: 0.9em;
+    opacity: 0.8;
+    /* width: 100%; */
+    background-color: #cfcfcf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5em;
+
+    /* only border radios left right bottom */
+    border-radius: 0 0 0.1em 0.1em;
+}
+
+#task-help-button {
+    /* question.svg in icons */
+    background-image: url(../../../pages/selectionTools/icons/question.svg);
+    background-size: 1.3em;
+    background-repeat: no-repeat;
+    width: 1.3em;
+    height: 1.3em;
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+#task-actions-ready {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#task-help-button:hover {
+    opacity: 1;
+}
+
+
+#task-actions {
+    margin-top: 1em;
+}
+
+#task-description::before {
+    content: "Beschreibung:";
+    font-weight: bold;
+    margin-right: 1em;
+}
+
+#task > #task-info > #task-progress {
+    display: none
+}
+
+#task.started > #task-info > #task-progress {
+    display: block;
+}
+
+#task.completed > #task-info > #task-progress {
+    display: block;
+    background-color: #a8ffa8;
+}
+
+#task.skipped > #task-info > #task-progress {
+    display: block;
+    background-color: #ffcc99;
+}
+
+#task-progress::before {
+    content: "Fortschritt:";
+    font-weight: bold;
+    margin-right: 1em;
+}
+
+#task-actions {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+
+.divider {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border-bottom: 1px solid #000;
+    opacity: 0.5;
+}

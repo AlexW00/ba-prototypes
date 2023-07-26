@@ -1,0 +1,3089 @@
+[
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q15",
+			"label": "ArUco Markers",
+			"class": "Markers",
+			"parent": "Markers",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q151",
+			"label": "Visual Markers",
+			"class": "Markers",
+			"parent": "Markers",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q39",
+			"label": "Converting between Color Models",
+			"class": "Colors",
+			"parent": "Colors",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q155",
+			"label": "YcbCr",
+			"class": "Colors",
+			"parent": "Colors",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q93",
+			"label": "Matrix Multiplication",
+			"class": "Mathematical Foundations",
+			"parent": "Mathematical Foundations",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q174",
+			"label": "Multiplication",
+			"class": "Mathematical Foundations",
+			"parent": "Mathematical Foundations",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q70",
+			"label": "Homogeneous Coordinates",
+			"class": "Mathematical Foundations",
+			"parent": "Mathematical Foundations",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q13",
+			"label": "Affine Transformations",
+			"class": "Mathematical Foundations",
+			"parent": "Mathematical Foundations",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q122",
+			"label": "Rotation (2D)",
+			"class": "2D Vector Graphics",
+			"parent": "2D Vector Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q140",
+			"label": "Transformation Matrices",
+			"class": "Mathematical Foundations",
+			"parent": "Mathematical Foundations",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q47",
+			"label": "Drawing Images (2D)",
+			"class": "Bitmap Graphics",
+			"parent": "Bitmap Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q14",
+			"label": "Anti-aliasing",
+			"class": "2D Vector Graphics",
+			"parent": "2D Vector Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q50",
+			"label": "Extracting Information from an Image",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q51",
+			"label": "Extracting Marker Positions",
+			"class": "Markers",
+			"parent": "Markers",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q97",
+			"label": "NURBS",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q16",
+			"label": "B-Splines",
+			"class": "2D Vector Graphics",
+			"parent": "2D Vector Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q119",
+			"label": "Rendering a Complex 3D Scene",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q17",
+			"label": "Backface Culling",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q43",
+			"label": "De-Casteljau Algorithm",
+			"class": "2D Vector Graphics",
+			"parent": "2D Vector Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q18",
+			"label": "Bernstein Polynomes",
+			"class": "2D Vector Graphics",
+			"parent": "2D Vector Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q19",
+			"label": "Bezier Curves",
+			"class": "2D Vector Graphics",
+			"parent": "2D Vector Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q75",
+			"label": "Image Filter Basics",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q20",
+			"label": "Blur Filters",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q117",
+			"label": "Removing Noise from an Image",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q115",
+			"label": "Rasterizing Lines",
+			"class": "2D Vector Graphics",
+			"parent": "2D Vector Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q21",
+			"label": "Bresenham Line Drawing Algorithm",
+			"class": "2D Vector Graphics",
+			"parent": "2D Vector Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q24",
+			"label": "Camera Intrinsics",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q22",
+			"label": "Camera Basics",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q30",
+			"label": "Clipping",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q25",
+			"label": "Camera-Projector Calibration",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q23",
+			"label": "Camera Calibration",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q118",
+			"label": "Rendering a 3D Overlay in a Live Video",
+			"class": "Augmented Reality",
+			"parent": "Augmented Reality",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q48",
+			"label": "Edge Detection",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q26",
+			"label": "Canny Edge Detector",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q27",
+			"label": "Capturing Camera Images in OpenCV",
+			"class": "OpenCV",
+			"parent": "OpenCV",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q38",
+			"label": "Converting between Cartesian and Polar Coordinates",
+			"class": "Mathematical Foundations",
+			"parent": "Mathematical Foundations",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q28",
+			"label": "Cartesian Coordinates",
+			"class": "Mathematical Foundations",
+			"parent": "Mathematical Foundations",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q31",
+			"label": "Clipping in OpenGL",
+			"class": "OpenGL",
+			"parent": "OpenGL",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q32",
+			"label": "CMYK",
+			"class": "Colors",
+			"parent": "Colors",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q33",
+			"label": "Color Mixing",
+			"class": "Bitmap Graphics",
+			"parent": "Bitmap Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q65",
+			"label": "Gradients",
+			"class": "Bitmap Graphics",
+			"parent": "Bitmap Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q145",
+			"label": "Transparency (2D)",
+			"class": "Bitmap Graphics",
+			"parent": "Bitmap Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q34",
+			"label": "Color Models",
+			"class": "Colors",
+			"parent": "Colors",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q35",
+			"label": "Color Transformations",
+			"class": "Colors",
+			"parent": "Colors",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q66",
+			"label": "Greyscale",
+			"class": "Colors",
+			"parent": "Colors",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q73",
+			"label": "HSV",
+			"class": "Colors",
+			"parent": "Colors",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q81",
+			"label": "Invert Colors",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q91",
+			"label": "Matching an Object by Color",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q121",
+			"label": "RGB",
+			"class": "Colors",
+			"parent": "Colors",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q36",
+			"label": "Computer Graphics Pipeline",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q55",
+			"label": "Finding Lines in an Image",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q37",
+			"label": "Contour Finding",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q56",
+			"label": "Fitting Lines (2D)",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q57",
+			"label": "Fitting Lines (3D)",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q40",
+			"label": "Convolution",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q60",
+			"label": "Gaussian Blur",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q82",
+			"label": "Lanczos Image Scaling",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q129",
+			"label": "Sharpen Filters",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q132",
+			"label": "Sobel Filter",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q96",
+			"label": "Normals",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q41",
+			"label": "Cross Product",
+			"class": "Mathematical Foundations",
+			"parent": "Mathematical Foundations",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q44",
+			"label": "Dilate",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q76",
+			"label": "Implementing an Image Editor",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q49",
+			"label": "Erode",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q53",
+			"label": "Feature Extraction for Machine Learning",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q54",
+			"label": "Feature Matching",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q74",
+			"label": "Identifying Faces in an Image",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q130",
+			"label": "SIFT",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q127",
+			"label": "Shading Techniques",
+			"class": "Shading",
+			"parent": "Shading",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q58",
+			"label": "Flat Shading",
+			"class": "Shading",
+			"parent": "Shading",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q59",
+			"label": "Flood Fill",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q62",
+			"label": "GLSL Fragment Shaders",
+			"class": "OpenGL",
+			"parent": "OpenGL",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q61",
+			"label": "GLSL",
+			"class": "OpenGL",
+			"parent": "OpenGL",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q63",
+			"label": "GLSL Vertex Shaders",
+			"class": "OpenGL",
+			"parent": "OpenGL",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q64",
+			"label": "Gouraud Shading",
+			"class": "Shading",
+			"parent": "Shading",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q69",
+			"label": "Histograms",
+			"class": "Bitmap Graphics",
+			"parent": "Bitmap Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q139",
+			"label": "Threshold",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q67",
+			"label": "Haar Cascades",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q68",
+			"label": "Histogram Equalization",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q72",
+			"label": "Hough Transform",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q71",
+			"label": "Hough Circles",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q77",
+			"label": "Implementing Image Filters",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q79",
+			"label": "Interacting with OpenGL Scenes",
+			"class": "OpenGL",
+			"parent": "OpenGL",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q120",
+			"label": "Resizing Images",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q83",
+			"label": "Laplace Filter",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q29",
+			"label": "CIE Standard",
+			"class": "Colors",
+			"parent": "Colors",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q84",
+			"label": "Light Spectrum",
+			"class": "Colors",
+			"parent": "Colors",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q86",
+			"label": "Line Rasterization Basics",
+			"class": "2D Vector Graphics",
+			"parent": "2D Vector Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q114",
+			"label": "Rasterization (3D)",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q87",
+			"label": "Lines",
+			"class": "2D Vector Graphics",
+			"parent": "2D Vector Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q112",
+			"label": "QR Codes",
+			"class": "Markers",
+			"parent": "Markers",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q92",
+			"label": "Matrices",
+			"class": "Mathematical Foundations",
+			"parent": "Mathematical Foundations",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q123",
+			"label": "Rotation Matrix (2D)",
+			"class": "2D Vector Graphics",
+			"parent": "2D Vector Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q94",
+			"label": "Morphological Operators",
+			"class": "Image Manipulation",
+			"parent": "Image Manipulation",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q104",
+			"label": "Phong Shading",
+			"class": "Shading",
+			"parent": "Shading",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q98",
+			"label": "Objects in OpenGL",
+			"class": "OpenGL",
+			"parent": "OpenGL",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q99",
+			"label": "OpenCV Basic Concepts",
+			"class": "OpenCV",
+			"parent": "OpenCV",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q80",
+			"label": "Interaction in OpenCV",
+			"class": "OpenCV",
+			"parent": "OpenCV",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q100",
+			"label": "OpenGL Basic Concepts",
+			"class": "OpenGL",
+			"parent": "OpenGL",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q126",
+			"label": "Shaders in OpenGL",
+			"class": "OpenGL",
+			"parent": "OpenGL",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q137",
+			"label": "Texture Mapping in OpenGL",
+			"class": "OpenGL",
+			"parent": "OpenGL",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q141",
+			"label": "Transformations in OpenGL",
+			"class": "OpenGL",
+			"parent": "OpenGL",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q150",
+			"label": "Virtual Cameras in OpenGL",
+			"class": "OpenGL",
+			"parent": "OpenGL",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q88",
+			"label": "Lucas-Kanade Optical Flow Algorithm",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q101",
+			"label": "Optical Flow",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q95",
+			"label": "Motion Tracking",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q110",
+			"label": "Procedural Textures",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q103",
+			"label": "Perlin Noise",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q105",
+			"label": "Pixels",
+			"class": "Bitmap Graphics",
+			"parent": "Bitmap Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q152",
+			"label": "Voxels",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q106",
+			"label": "Points and Vectors",
+			"class": "Mathematical Foundations",
+			"parent": "Mathematical Foundations",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q107",
+			"label": "Polar Coordinates",
+			"class": "Mathematical Foundations",
+			"parent": "Mathematical Foundations",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q108",
+			"label": "Polygons",
+			"class": "2D Vector Graphics",
+			"parent": "2D Vector Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q42",
+			"label": "Data Structures for Polygons",
+			"class": "2D Vector Graphics",
+			"parent": "2D Vector Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q147",
+			"label": "Triangle Meshes",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q111",
+			"label": "Projections",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q149",
+			"label": "Virtual Cameras",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q154",
+			"label": "Window-Viewport Transformation",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q124",
+			"label": "Rotation Matrix (3D)",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q128",
+			"label": "Shading Basics",
+			"class": "Shading",
+			"parent": "Shading",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q113",
+			"label": "Radiosity",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q116",
+			"label": "Ray Tracing",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q134",
+			"label": "Subdivision Modeling",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q136",
+			"label": "Tessellation",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q138",
+			"label": "Textures",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q125",
+			"label": "Scenegraphs",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q142",
+			"label": "Transforming between 3D Coordinate Systems",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q143",
+			"label": "Translation Matrix (2D)",
+			"class": "2D Vector Graphics",
+			"parent": "2D Vector Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q144",
+			"label": "Translation Matrix (3D)",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q146",
+			"label": "Transparency (3D)",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q131",
+			"label": "Simplifying Meshes",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q148",
+			"label": "Triangle Strips and Fans",
+			"class": "3D Graphics",
+			"parent": "3D Graphics",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"group": "nodes",
+		"data": {
+			"id": "entity/Q90",
+			"label": "Markerless Tracking",
+			"class": "Computer Vision",
+			"parent": "Computer Vision",
+			"completed": "false",
+			"interested": "false"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q15-depends on-entity/Q151",
+			"source": "entity/Q15",
+			"target": "entity/Q151",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q39-depends on-entity/Q155",
+			"source": "entity/Q39",
+			"target": "entity/Q155",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q93-depends on-entity/Q174",
+			"source": "entity/Q93",
+			"target": "entity/Q174",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q70-depends on-entity/Q13",
+			"source": "entity/Q70",
+			"target": "entity/Q13",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q122-depends on-entity/Q13",
+			"source": "entity/Q122",
+			"target": "entity/Q13",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q140-depends on-entity/Q13",
+			"source": "entity/Q140",
+			"target": "entity/Q13",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q47-depends on-entity/Q14",
+			"source": "entity/Q47",
+			"target": "entity/Q14",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q50-depends on-entity/Q15",
+			"source": "entity/Q50",
+			"target": "entity/Q15",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q51-depends on-entity/Q15",
+			"source": "entity/Q51",
+			"target": "entity/Q15",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q97-depends on-entity/Q16",
+			"source": "entity/Q97",
+			"target": "entity/Q16",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q119-depends on-entity/Q17",
+			"source": "entity/Q119",
+			"target": "entity/Q17",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q43-depends on-entity/Q18",
+			"source": "entity/Q43",
+			"target": "entity/Q18",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q43-depends on-entity/Q19",
+			"source": "entity/Q43",
+			"target": "entity/Q19",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q75-depends on-entity/Q20",
+			"source": "entity/Q75",
+			"target": "entity/Q20",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q117-depends on-entity/Q20",
+			"source": "entity/Q117",
+			"target": "entity/Q20",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q115-depends on-entity/Q21",
+			"source": "entity/Q115",
+			"target": "entity/Q21",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q24-depends on-entity/Q22",
+			"source": "entity/Q24",
+			"target": "entity/Q22",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q30-depends on-entity/Q22",
+			"source": "entity/Q30",
+			"target": "entity/Q22",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q25-depends on-entity/Q23",
+			"source": "entity/Q25",
+			"target": "entity/Q23",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q118-depends on-entity/Q23",
+			"source": "entity/Q118",
+			"target": "entity/Q23",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q23-depends on-entity/Q24",
+			"source": "entity/Q23",
+			"target": "entity/Q24",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q48-depends on-entity/Q26",
+			"source": "entity/Q48",
+			"target": "entity/Q26",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q118-depends on-entity/Q27",
+			"source": "entity/Q118",
+			"target": "entity/Q27",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q38-depends on-entity/Q28",
+			"source": "entity/Q38",
+			"target": "entity/Q28",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q31-depends on-entity/Q30",
+			"source": "entity/Q31",
+			"target": "entity/Q30",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q39-depends on-entity/Q32",
+			"source": "entity/Q39",
+			"target": "entity/Q32",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q47-depends on-entity/Q33",
+			"source": "entity/Q47",
+			"target": "entity/Q33",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q65-depends on-entity/Q33",
+			"source": "entity/Q65",
+			"target": "entity/Q33",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q75-depends on-entity/Q33",
+			"source": "entity/Q75",
+			"target": "entity/Q33",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q145-depends on-entity/Q33",
+			"source": "entity/Q145",
+			"target": "entity/Q33",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q32-depends on-entity/Q34",
+			"source": "entity/Q32",
+			"target": "entity/Q34",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q33-depends on-entity/Q34",
+			"source": "entity/Q33",
+			"target": "entity/Q34",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q35-depends on-entity/Q34",
+			"source": "entity/Q35",
+			"target": "entity/Q34",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q66-depends on-entity/Q34",
+			"source": "entity/Q66",
+			"target": "entity/Q34",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q73-depends on-entity/Q34",
+			"source": "entity/Q73",
+			"target": "entity/Q34",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q81-depends on-entity/Q34",
+			"source": "entity/Q81",
+			"target": "entity/Q34",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q91-depends on-entity/Q34",
+			"source": "entity/Q91",
+			"target": "entity/Q34",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q121-depends on-entity/Q34",
+			"source": "entity/Q121",
+			"target": "entity/Q34",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q155-depends on-entity/Q34",
+			"source": "entity/Q155",
+			"target": "entity/Q34",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q39-depends on-entity/Q35",
+			"source": "entity/Q39",
+			"target": "entity/Q35",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q17-depends on-entity/Q36",
+			"source": "entity/Q17",
+			"target": "entity/Q36",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q30-depends on-entity/Q36",
+			"source": "entity/Q30",
+			"target": "entity/Q36",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q55-depends on-entity/Q37",
+			"source": "entity/Q55",
+			"target": "entity/Q37",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q56-depends on-entity/Q37",
+			"source": "entity/Q56",
+			"target": "entity/Q37",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q57-depends on-entity/Q37",
+			"source": "entity/Q57",
+			"target": "entity/Q37",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q50-depends on-entity/Q39",
+			"source": "entity/Q50",
+			"target": "entity/Q39",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q20-depends on-entity/Q40",
+			"source": "entity/Q20",
+			"target": "entity/Q40",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q48-depends on-entity/Q40",
+			"source": "entity/Q48",
+			"target": "entity/Q40",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q60-depends on-entity/Q40",
+			"source": "entity/Q60",
+			"target": "entity/Q40",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q82-depends on-entity/Q40",
+			"source": "entity/Q82",
+			"target": "entity/Q40",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q129-depends on-entity/Q40",
+			"source": "entity/Q129",
+			"target": "entity/Q40",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q132-depends on-entity/Q40",
+			"source": "entity/Q132",
+			"target": "entity/Q40",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q96-depends on-entity/Q41",
+			"source": "entity/Q96",
+			"target": "entity/Q41",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q117-depends on-entity/Q44",
+			"source": "entity/Q117",
+			"target": "entity/Q44",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q76-depends on-entity/Q47",
+			"source": "entity/Q76",
+			"target": "entity/Q47",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q37-depends on-entity/Q48",
+			"source": "entity/Q37",
+			"target": "entity/Q48",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q55-depends on-entity/Q48",
+			"source": "entity/Q55",
+			"target": "entity/Q48",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q117-depends on-entity/Q49",
+			"source": "entity/Q117",
+			"target": "entity/Q49",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q53-depends on-entity/Q50",
+			"source": "entity/Q53",
+			"target": "entity/Q50",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q54-depends on-entity/Q50",
+			"source": "entity/Q54",
+			"target": "entity/Q50",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q74-depends on-entity/Q50",
+			"source": "entity/Q74",
+			"target": "entity/Q50",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q130-depends on-entity/Q54",
+			"source": "entity/Q130",
+			"target": "entity/Q54",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q50-depends on-entity/Q55",
+			"source": "entity/Q50",
+			"target": "entity/Q55",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q57-depends on-entity/Q56",
+			"source": "entity/Q57",
+			"target": "entity/Q56",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q127-depends on-entity/Q58",
+			"source": "entity/Q127",
+			"target": "entity/Q58",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q76-depends on-entity/Q59",
+			"source": "entity/Q76",
+			"target": "entity/Q59",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q91-depends on-entity/Q59",
+			"source": "entity/Q91",
+			"target": "entity/Q59",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q48-depends on-entity/Q60",
+			"source": "entity/Q48",
+			"target": "entity/Q60",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q62-depends on-entity/Q61",
+			"source": "entity/Q62",
+			"target": "entity/Q61",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q63-depends on-entity/Q61",
+			"source": "entity/Q63",
+			"target": "entity/Q61",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q119-depends on-entity/Q62",
+			"source": "entity/Q119",
+			"target": "entity/Q62",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q119-depends on-entity/Q63",
+			"source": "entity/Q119",
+			"target": "entity/Q63",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q127-depends on-entity/Q64",
+			"source": "entity/Q127",
+			"target": "entity/Q64",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q26-depends on-entity/Q65",
+			"source": "entity/Q26",
+			"target": "entity/Q65",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q39-depends on-entity/Q66",
+			"source": "entity/Q39",
+			"target": "entity/Q66",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q65-depends on-entity/Q66",
+			"source": "entity/Q65",
+			"target": "entity/Q66",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q69-depends on-entity/Q66",
+			"source": "entity/Q69",
+			"target": "entity/Q66",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q75-depends on-entity/Q66",
+			"source": "entity/Q75",
+			"target": "entity/Q66",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q139-depends on-entity/Q66",
+			"source": "entity/Q139",
+			"target": "entity/Q66",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q74-depends on-entity/Q67",
+			"source": "entity/Q74",
+			"target": "entity/Q67",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q68-depends on-entity/Q69",
+			"source": "entity/Q68",
+			"target": "entity/Q69",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q55-depends on-entity/Q72",
+			"source": "entity/Q55",
+			"target": "entity/Q72",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q71-depends on-entity/Q72",
+			"source": "entity/Q71",
+			"target": "entity/Q72",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q130-depends on-entity/Q72",
+			"source": "entity/Q130",
+			"target": "entity/Q72",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q39-depends on-entity/Q73",
+			"source": "entity/Q39",
+			"target": "entity/Q73",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q91-depends on-entity/Q73",
+			"source": "entity/Q91",
+			"target": "entity/Q73",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q77-depends on-entity/Q75",
+			"source": "entity/Q77",
+			"target": "entity/Q75",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q76-depends on-entity/Q77",
+			"source": "entity/Q76",
+			"target": "entity/Q77",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q119-depends on-entity/Q79",
+			"source": "entity/Q119",
+			"target": "entity/Q79",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q120-depends on-entity/Q82",
+			"source": "entity/Q120",
+			"target": "entity/Q82",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q48-depends on-entity/Q83",
+			"source": "entity/Q48",
+			"target": "entity/Q83",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q29-depends on-entity/Q84",
+			"source": "entity/Q29",
+			"target": "entity/Q84",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q121-depends on-entity/Q84",
+			"source": "entity/Q121",
+			"target": "entity/Q84",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q14-depends on-entity/Q86",
+			"source": "entity/Q14",
+			"target": "entity/Q86",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q21-depends on-entity/Q86",
+			"source": "entity/Q21",
+			"target": "entity/Q86",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q114-depends on-entity/Q86",
+			"source": "entity/Q114",
+			"target": "entity/Q86",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q115-depends on-entity/Q86",
+			"source": "entity/Q115",
+			"target": "entity/Q86",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q59-depends on-entity/Q87",
+			"source": "entity/Q59",
+			"target": "entity/Q87",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q86-depends on-entity/Q87",
+			"source": "entity/Q86",
+			"target": "entity/Q87",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q115-depends on-entity/Q87",
+			"source": "entity/Q115",
+			"target": "entity/Q87",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q112-depends on-entity/Q92",
+			"source": "entity/Q112",
+			"target": "entity/Q92",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q123-depends on-entity/Q92",
+			"source": "entity/Q123",
+			"target": "entity/Q92",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q140-depends on-entity/Q92",
+			"source": "entity/Q140",
+			"target": "entity/Q92",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q93-depends on-entity/Q92",
+			"source": "entity/Q93",
+			"target": "entity/Q92",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q70-depends on-entity/Q93",
+			"source": "entity/Q70",
+			"target": "entity/Q93",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q44-depends on-entity/Q94",
+			"source": "entity/Q44",
+			"target": "entity/Q94",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q49-depends on-entity/Q94",
+			"source": "entity/Q49",
+			"target": "entity/Q94",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q64-depends on-entity/Q96",
+			"source": "entity/Q64",
+			"target": "entity/Q96",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q104-depends on-entity/Q96",
+			"source": "entity/Q104",
+			"target": "entity/Q96",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q119-depends on-entity/Q98",
+			"source": "entity/Q119",
+			"target": "entity/Q98",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q27-depends on-entity/Q99",
+			"source": "entity/Q27",
+			"target": "entity/Q99",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q67-depends on-entity/Q99",
+			"source": "entity/Q67",
+			"target": "entity/Q99",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q80-depends on-entity/Q99",
+			"source": "entity/Q80",
+			"target": "entity/Q99",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q118-depends on-entity/Q99",
+			"source": "entity/Q118",
+			"target": "entity/Q99",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q31-depends on-entity/Q100",
+			"source": "entity/Q31",
+			"target": "entity/Q100",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q61-depends on-entity/Q100",
+			"source": "entity/Q61",
+			"target": "entity/Q100",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q62-depends on-entity/Q100",
+			"source": "entity/Q62",
+			"target": "entity/Q100",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q63-depends on-entity/Q100",
+			"source": "entity/Q63",
+			"target": "entity/Q100",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q79-depends on-entity/Q100",
+			"source": "entity/Q79",
+			"target": "entity/Q100",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q98-depends on-entity/Q100",
+			"source": "entity/Q98",
+			"target": "entity/Q100",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q119-depends on-entity/Q100",
+			"source": "entity/Q119",
+			"target": "entity/Q100",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q126-depends on-entity/Q100",
+			"source": "entity/Q126",
+			"target": "entity/Q100",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q137-depends on-entity/Q100",
+			"source": "entity/Q137",
+			"target": "entity/Q100",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q141-depends on-entity/Q100",
+			"source": "entity/Q141",
+			"target": "entity/Q100",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q150-depends on-entity/Q100",
+			"source": "entity/Q150",
+			"target": "entity/Q100",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q88-depends on-entity/Q101",
+			"source": "entity/Q88",
+			"target": "entity/Q101",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q95-depends on-entity/Q101",
+			"source": "entity/Q95",
+			"target": "entity/Q101",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q110-depends on-entity/Q103",
+			"source": "entity/Q110",
+			"target": "entity/Q103",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q127-depends on-entity/Q104",
+			"source": "entity/Q127",
+			"target": "entity/Q104",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q14-depends on-entity/Q105",
+			"source": "entity/Q14",
+			"target": "entity/Q105",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q21-depends on-entity/Q105",
+			"source": "entity/Q21",
+			"target": "entity/Q105",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q33-depends on-entity/Q105",
+			"source": "entity/Q33",
+			"target": "entity/Q105",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q59-depends on-entity/Q105",
+			"source": "entity/Q59",
+			"target": "entity/Q105",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q65-depends on-entity/Q105",
+			"source": "entity/Q65",
+			"target": "entity/Q105",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q69-depends on-entity/Q105",
+			"source": "entity/Q69",
+			"target": "entity/Q105",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q75-depends on-entity/Q105",
+			"source": "entity/Q75",
+			"target": "entity/Q105",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q81-depends on-entity/Q105",
+			"source": "entity/Q81",
+			"target": "entity/Q105",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q94-depends on-entity/Q105",
+			"source": "entity/Q94",
+			"target": "entity/Q105",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q120-depends on-entity/Q105",
+			"source": "entity/Q120",
+			"target": "entity/Q105",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q139-depends on-entity/Q105",
+			"source": "entity/Q139",
+			"target": "entity/Q105",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q152-depends on-entity/Q105",
+			"source": "entity/Q152",
+			"target": "entity/Q105",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q13-depends on-entity/Q106",
+			"source": "entity/Q13",
+			"target": "entity/Q106",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q28-depends on-entity/Q106",
+			"source": "entity/Q28",
+			"target": "entity/Q106",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q34-depends on-entity/Q106",
+			"source": "entity/Q34",
+			"target": "entity/Q106",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q40-depends on-entity/Q106",
+			"source": "entity/Q40",
+			"target": "entity/Q106",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q87-depends on-entity/Q106",
+			"source": "entity/Q87",
+			"target": "entity/Q106",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q92-depends on-entity/Q106",
+			"source": "entity/Q92",
+			"target": "entity/Q106",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q93-depends on-entity/Q106",
+			"source": "entity/Q93",
+			"target": "entity/Q106",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q96-depends on-entity/Q106",
+			"source": "entity/Q96",
+			"target": "entity/Q106",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q107-depends on-entity/Q106",
+			"source": "entity/Q107",
+			"target": "entity/Q106",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q38-depends on-entity/Q107",
+			"source": "entity/Q38",
+			"target": "entity/Q107",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q17-depends on-entity/Q108",
+			"source": "entity/Q17",
+			"target": "entity/Q108",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q42-depends on-entity/Q108",
+			"source": "entity/Q42",
+			"target": "entity/Q108",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q147-depends on-entity/Q108",
+			"source": "entity/Q147",
+			"target": "entity/Q108",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q25-depends on-entity/Q111",
+			"source": "entity/Q25",
+			"target": "entity/Q111",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q149-depends on-entity/Q111",
+			"source": "entity/Q149",
+			"target": "entity/Q111",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q154-depends on-entity/Q111",
+			"source": "entity/Q154",
+			"target": "entity/Q111",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q47-depends on-entity/Q115",
+			"source": "entity/Q47",
+			"target": "entity/Q115",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q39-depends on-entity/Q121",
+			"source": "entity/Q39",
+			"target": "entity/Q121",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q73-depends on-entity/Q121",
+			"source": "entity/Q73",
+			"target": "entity/Q121",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q122-depends on-entity/Q123",
+			"source": "entity/Q122",
+			"target": "entity/Q123",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q124-depends on-entity/Q123",
+			"source": "entity/Q124",
+			"target": "entity/Q123",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q62-depends on-entity/Q126",
+			"source": "entity/Q62",
+			"target": "entity/Q126",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q63-depends on-entity/Q126",
+			"source": "entity/Q63",
+			"target": "entity/Q126",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q126-depends on-entity/Q127",
+			"source": "entity/Q126",
+			"target": "entity/Q127",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q58-depends on-entity/Q128",
+			"source": "entity/Q58",
+			"target": "entity/Q128",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q63-depends on-entity/Q128",
+			"source": "entity/Q63",
+			"target": "entity/Q128",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q64-depends on-entity/Q128",
+			"source": "entity/Q64",
+			"target": "entity/Q128",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q104-depends on-entity/Q128",
+			"source": "entity/Q104",
+			"target": "entity/Q128",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q113-depends on-entity/Q128",
+			"source": "entity/Q113",
+			"target": "entity/Q128",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q116-depends on-entity/Q128",
+			"source": "entity/Q116",
+			"target": "entity/Q128",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q127-depends on-entity/Q128",
+			"source": "entity/Q127",
+			"target": "entity/Q128",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q75-depends on-entity/Q129",
+			"source": "entity/Q75",
+			"target": "entity/Q129",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q26-depends on-entity/Q132",
+			"source": "entity/Q26",
+			"target": "entity/Q132",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q48-depends on-entity/Q132",
+			"source": "entity/Q48",
+			"target": "entity/Q132",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q75-depends on-entity/Q132",
+			"source": "entity/Q75",
+			"target": "entity/Q132",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q134-depends on-entity/Q136",
+			"source": "entity/Q134",
+			"target": "entity/Q136",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q119-depends on-entity/Q137",
+			"source": "entity/Q119",
+			"target": "entity/Q137",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q110-depends on-entity/Q138",
+			"source": "entity/Q110",
+			"target": "entity/Q138",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q137-depends on-entity/Q138",
+			"source": "entity/Q137",
+			"target": "entity/Q138",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q48-depends on-entity/Q139",
+			"source": "entity/Q48",
+			"target": "entity/Q139",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q75-depends on-entity/Q139",
+			"source": "entity/Q75",
+			"target": "entity/Q139",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q111-depends on-entity/Q140",
+			"source": "entity/Q111",
+			"target": "entity/Q140",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q123-depends on-entity/Q140",
+			"source": "entity/Q123",
+			"target": "entity/Q140",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q125-depends on-entity/Q140",
+			"source": "entity/Q125",
+			"target": "entity/Q140",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q141-depends on-entity/Q140",
+			"source": "entity/Q141",
+			"target": "entity/Q140",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q142-depends on-entity/Q140",
+			"source": "entity/Q142",
+			"target": "entity/Q140",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q143-depends on-entity/Q140",
+			"source": "entity/Q143",
+			"target": "entity/Q140",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q154-depends on-entity/Q140",
+			"source": "entity/Q154",
+			"target": "entity/Q140",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q119-depends on-entity/Q141",
+			"source": "entity/Q119",
+			"target": "entity/Q141",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q118-depends on-entity/Q142",
+			"source": "entity/Q118",
+			"target": "entity/Q142",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q144-depends on-entity/Q143",
+			"source": "entity/Q144",
+			"target": "entity/Q143",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q146-depends on-entity/Q145",
+			"source": "entity/Q146",
+			"target": "entity/Q145",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q131-depends on-entity/Q147",
+			"source": "entity/Q131",
+			"target": "entity/Q147",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q134-depends on-entity/Q147",
+			"source": "entity/Q134",
+			"target": "entity/Q147",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q136-depends on-entity/Q147",
+			"source": "entity/Q136",
+			"target": "entity/Q147",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q148-depends on-entity/Q147",
+			"source": "entity/Q148",
+			"target": "entity/Q147",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q25-depends on-entity/Q149",
+			"source": "entity/Q25",
+			"target": "entity/Q149",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q150-depends on-entity/Q149",
+			"source": "entity/Q150",
+			"target": "entity/Q149",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q119-depends on-entity/Q150",
+			"source": "entity/Q119",
+			"target": "entity/Q150",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q51-depends on-entity/Q151",
+			"source": "entity/Q51",
+			"target": "entity/Q151",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q90-depends on-entity/Q151",
+			"source": "entity/Q90",
+			"target": "entity/Q151",
+			"label": "depends on"
+		}
+	},
+	{
+		"data": {
+			"id": "entity/Q112-depends on-entity/Q151",
+			"source": "entity/Q112",
+			"target": "entity/Q151",
+			"label": "depends on"
+		}
+	}
+]
